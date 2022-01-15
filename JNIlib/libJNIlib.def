@@ -1,0 +1,7 @@
+EXPORTS
+    Java_com_swpu_change_Bri_charAddress @1
+    Java_com_swpu_change_Bri_charSixteen @2
+    Java_com_swpu_change_Bri_floatAddress @3
+    Java_com_swpu_change_Bri_floatSixteen @4
+    Java_com_swpu_change_Bri_intAddress @5
+    Java_com_swpu_change_Bri_intSixteen @6
